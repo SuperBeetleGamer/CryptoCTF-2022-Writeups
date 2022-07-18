@@ -25,3 +25,5 @@ for factor in facs:
 
         print(long_to_bytes(pow(int(ct),int(d),int(n))).decode())
         break
+        
+#CCTF{5pArs3_dIfFeRenc3_f4ct0r1za7iOn_m3th0d!}
